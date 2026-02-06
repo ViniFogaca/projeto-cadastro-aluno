@@ -24,8 +24,8 @@ A aplicação permite o gerenciamento completo (CRUD) de alunos, incluindo valid
 - **MySQL** Banco de Dados Relacional
 
 ### Frontend
--**HTML5 & CSS3:** Estrutura semântica e estilização
--**JavaScript:** Lógica do cliente e consumo de API
+- **HTML5 & CSS3:** Estrutura semântica e estilização
+- **JavaScript:** Lógica do cliente e consumo de API
 
 ---
 
@@ -39,7 +39,7 @@ CREATE DATABASE db_cadastro_aluno;
 
 ### 2. Backend
 - Clonar repositório.
--Configure o arquivo application.properties com suas credenciais do MySQL.
+- Configure o arquivo application.properties com suas credenciais do MySQL.
 - A API rodará em: `http://localhost:8080`
 
 ### 3. Frontend
